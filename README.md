@@ -13,7 +13,7 @@ Instalación:
 
 1. Clona este repositorio:
 
-git clone https://github.com/tu_usuario/proyecto_emociones.git
+git clone https://github.com/Kaltum-Viveros/Analisis-de-emociones-en-textos.git
 cd proyecto_emociones
 
 
