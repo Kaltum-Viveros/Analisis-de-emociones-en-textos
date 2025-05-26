@@ -14,7 +14,6 @@ Instalación:
 1. Clona este repositorio:
 
 git clone https://github.com/Kaltum-Viveros/Analisis-de-emociones-en-textos.git
-cd proyecto_emociones
 
 
 2. Instala las dependencias desde requirements.txt:
