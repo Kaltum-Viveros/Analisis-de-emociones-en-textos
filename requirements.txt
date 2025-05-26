@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+spacy
+language-tool-python
+tqdm
+wordcloud
+nltk
+sentence-transformers
+joblib
