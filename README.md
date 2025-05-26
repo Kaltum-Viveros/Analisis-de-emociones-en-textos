@@ -69,7 +69,7 @@ Para Windows:
 ## Estructura esperada del proyecto
 
 
-📁 proyecto_emociones/
+📁 Analisis-de-emociones-en-textos/
 │
 ├── data/
 │   └── Nuevo_Dataset_Patrones_Emocionales.csv
