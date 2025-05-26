@@ -78,7 +78,8 @@ Para Windows:
 │   ├── modelo_nb_tfidf.pkl
 │   ├── modelo_svm_embeddings.pkl
 │   ├── label_encoder_tfidf.pkl
-│   └── label_encoder_embeddings.pkl
+│   ├── label_encoder_embeddings.pkl
+|   └── vectorizador_tfidf.pkl
 │
 ├── proyecto_final_minería_de_datos.py
 ├── requirements.txt
@@ -88,6 +89,8 @@ Para Windows:
 ## Algoritmos implementados
 
 - K-Nearest Neighbors (KNN)
+  - Distancia Euclidiana para TF-IDF
+  - Distancia Coseno para embeddings
 - Naive Bayes
   - MultinomialNB para TF-IDF
   - GaussianNB para embeddings
