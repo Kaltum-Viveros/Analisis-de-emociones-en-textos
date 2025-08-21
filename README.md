@@ -5,7 +5,7 @@ Se exploran dos enfoques de representación de texto: **TF-IDF** y **embeddings 
 
 ---
 
-## 🚀 Requisitos e instalación
+## -> Requisitos e instalación
 
 **Requisitos:**
 - Python 3.10 o superior  
@@ -62,7 +62,7 @@ java -version
 
 ---
 
-## ▶️ Ejecución del proyecto
+## -> Ejecución del proyecto
 
 1. Abre y ejecuta el archivo `proyecto_final_minería_de_datos.py`.  
 2. Asegúrate de tener el dataset `Nuevo_Dataset_Patrones_Emocionales.csv` en la ruta esperada (`/data/`).  
@@ -97,7 +97,7 @@ java -version
 
 ---
 
-## 🤖 Algoritmos implementados
+## -> Algoritmos implementados
 
 - **K-Nearest Neighbors (KNN)**  
   - Distancia Euclidiana para TF-IDF  
@@ -115,7 +115,7 @@ java -version
 
 ---
 
-## 📊 Métricas evaluadas
+## -> Métricas evaluadas
 
 - Accuracy  
 - Precision  
@@ -128,7 +128,7 @@ java -version
 
 ---
 
-## 📝 Notas adicionales
+## -> Notas adicionales
 
 - El modelo de embeddings se generó con `sentence-transformers` (MiniLM).  
 - Para la corrección gramatical se usó `language-tool-python`, que requiere Java si se ejecuta fuera de Google Colab.  
@@ -136,7 +136,7 @@ java -version
 
 ---
 
-## 📧 Contacto
+## -> Contacto
 
 Proyecto desarrollado como parte del curso de Minería de Datos, Benemérita Universidad Autónoma de Puebla.  
 
